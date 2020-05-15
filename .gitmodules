@@ -1,0 +1,6 @@
+[submodule "MasterModule"]
+	path = MasterModule
+	url = https://github.com/tworkshyd/MasterModule.git
+[submodule "RelayModule"]
+	path = RelayModule
+	url = https://github.com/tworkshyd/RelayModule.git
